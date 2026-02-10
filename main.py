@@ -1,7 +1,7 @@
 # AIM: Design a Python program to compute 
 # the factorial of a given integer N.
-# Coder:BHATKAR TARIQ 
-# Date:30|01|2026
+# Coder:REHAN AKHTAR ALI SHAIKH
+# Date:10|02|2026
 
 #print("--- Factorial Finder ---\n")
 
@@ -18,3 +18,4 @@ else:
         fact = fact * i
 
 print(f"Factorial of {num} is", fact)
+
